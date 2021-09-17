@@ -2,4 +2,6 @@ $ git init : inicializar un repositorio local de git (Control de versiones)
 
 $ git status : se utiliza para saber el estado actual del repositorio
 
-$
+$ git add(. o nombre del fichero) : añadir un fichero al sistema de control de versiones
+
+$ git commit -m "mensaje" : este comando sirve para guardar una version
