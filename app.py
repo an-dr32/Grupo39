@@ -1,4 +1,4 @@
-numero = input("Digite el numero a verificar: ")
+numero = int(input("Digite el numero a verificar: "))
 
 cont = 0
 for i in range(numero):
@@ -8,5 +8,5 @@ if cont == 2:
     print("el numero es primo")
 else:
     print("el numero no es primo")
-    
+
 print("El numero digitado es: ", numero)
