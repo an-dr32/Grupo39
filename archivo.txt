@@ -5,3 +5,6 @@ $ git status : se utiliza para saber el estado actual del repositorio
 $ git add(. o nombre del fichero) : añadir un fichero al sistema de control de versiones
 
 $ git commit -m "mensaje" : este comando sirve para guardar una version
+
+$ git log : se utiliza para conocer la trazabilidad o recorrido de versiones que hemos realizado
+
