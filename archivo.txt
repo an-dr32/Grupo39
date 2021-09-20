@@ -8,3 +8,4 @@ $ git commit -m "mensaje" : este comando sirve para guardar una version
 
 $ git log : se utiliza para conocer la trazabilidad o recorrido de versiones que hemos realizado
 
+$ git reset --hard (hash
